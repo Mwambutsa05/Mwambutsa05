@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mwambutsa Daryce
+# Hi there, I'm Mwambutsa Daryce
 
 A passionate **Full-Stack Software Developer** who loves building clean, scalable, and user-centered applications — from robust Java backends to dynamic React frontends.
 
